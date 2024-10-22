@@ -31,3 +31,20 @@ These variables collectively offer a comprehensive view of MRT-3 ridership traff
 
 ## Goal
 The Data Science team's goal is to leverage the timestamp data per station, along with insights into the busiest station and its corresponding high-traffic times. Our analysis aims to deliver valuable recommendations for enhancing the overall efficiency and responsiveness of the MRT-3 system.
+
+
+Credits to:
+John Caleb Rejante (john_caleb_rejante@dlsu.edu.ph) 
+Emmanuel Pedernal (emmanuel_pedernal@dlsu.edu.ph)
+Lizelle Ann Cruz (lizelle_ann_v_cruz@dlsu.edu.ph)
+Melanie Hauschild (melanie_hauschild@dlsu.edu.ph)
+Jose Alesandro Roxas (jose_alessandro_roxas@dlsu.edu.ph)
+
+
+
+
+
+
+
+
+
